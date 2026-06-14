@@ -273,7 +273,7 @@ def perguntar_ia(mensagem):
 
 # =========================
 # LOOP PRINCIPAL
-# =========================
+# =========================+
 
 print("[MAZE-3] Sistema iniciado. Aguardando comando...")
 
